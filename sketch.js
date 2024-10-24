@@ -11,7 +11,7 @@
  let campoAventura;
 
 function setup() {
-  createCanvas(850,400);
+  createCanvas(800,400);
   createElement("h2", "Recomendador de filmes");
   createSpan("sua idade:");
   campoIdade = createInput("5");
@@ -64,3 +64,14 @@ geraRecomendacao(idade,gostaDeFantasia, gostaDeAventura);
     }
   }
 }
+
+
+    
+
+        
+
+            
+
+    
+
+        
